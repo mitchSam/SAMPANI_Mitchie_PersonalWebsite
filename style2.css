@@ -1,0 +1,31 @@
+body {
+	margin: 0;
+	paddin: 0;
+	background: url(Background.jpg) no-repeat;
+	background-size: cover;
+	}
+	.left-box{
+		float: left;
+		width: 300px;
+		background: rgba(0, 0, 0, 0.2);
+		padding: 40px;
+		text-align: center;
+		margin: auto;
+		margin-left: 2%;
+		color: black;
+		font-family: 'Century Gothic', sans-serif;
+		}
+	.box-img{
+		border-radius: 50%;
+		width: 200px;
+		height: 200px;
+		}
+	.left-box h1{
+		font-size: 20px;
+		letter-spacing: 4px;
+		font-weight: 800;
+		}
+    .left-box h5{
+        text-decoration: overline underline;
+		}
+      
