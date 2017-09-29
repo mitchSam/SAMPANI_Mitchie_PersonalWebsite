@@ -35,6 +35,6 @@ body{
  }
  .box li{
 	 display: left-side;
-	 margin: none;
+	 margin: 6px;
 	 list-style: none;
  }
