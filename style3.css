@@ -67,11 +67,7 @@ body {
     font-weight: bold;
     border-bottom: 2px solid #f2f2f2;
     }
-#section-right .h2{
-	font-size: 25px;
-	letter-spacing: 4px;
-	font-weight: 900;
-}
+
     a:link {
         color: #fff;
         text-decoration: underline;
