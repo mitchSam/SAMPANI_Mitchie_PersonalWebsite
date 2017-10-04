@@ -1,6 +1,6 @@
 body {
 	margin: 0;
-	paddin: 0;
+	padding: 0;
 	background: url(Background.jpg) no-repeat;
 	background-size: cover;
 	}
@@ -74,7 +74,7 @@ body {
 }
     a:link {
         color: #fff;
-        text-decoration: none;
+        text-decoration: underline;
     }
     a:visited {
         color: #fff;
