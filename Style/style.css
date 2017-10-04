@@ -3,7 +3,7 @@ body{
 	paddin: 0;
 	background: url(Background.jpg) no-repeat;
 	background-size: cover;
-}
+	}
 .box{
 	width: 300px;
 	background: rgba(0, 0, 0, 0.4);
@@ -13,22 +13,21 @@ body{
 	margin-top: 5%;
 	color: white;
 	font-family: 'Century Gothic', sans-serif;
-}
+	}
 .box-img{
 	border-radius: 50%;
 	width: 200px;
 	height: 200px;
-}
+	}
 .box h1{
 	font-size: 25px;
 	letter-spacing: 4px;
 	font-weight: 900;
-}
- .box h5{
-	 font-size: 18px;
-	 letter-spacing: 1px;
-	 font-weight: 200;
- }
+	}
+.box h5{
+	text-decoration: overline underline;
+	}
+ 
  ul{
 	margin: 0;
 	padding: 0;
